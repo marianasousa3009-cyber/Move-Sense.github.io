@@ -4,7 +4,7 @@ MoveSense
 Tecnologia inteligente ao serviço da reabilitação física
 
 
-                                              Apresentação do dispositivo
+      Apresentação do dispositivo
 
 O MoveSense é um sistema tecnológico desenvolvido com o objetivo de tornar os processos de reabilitação física mais eficientes, precisos e personalizados.
 Através da integração de sensores inteligentes, processamento de dados e comunicação sem fios, o dispositivo permite acompanhar, em tempo real, a execução dos exercícios de reabilitação, recolhendo informações sobre o movimento, a amplitude articular, o número de repetições e a duração da atividade.
@@ -12,8 +12,8 @@ O principal objetivo passa por disponibilizar ao profissional de saúde informa�
 Mais do que um dispositivo de medição, o MoveSense pretende aproximar a tecnologia da prática clínica, promovendo uma reabilitação mais monitorizada, personalizada e baseada em dados.
 
 
-                                                        Como funciona?
-
+      Como funciona?
+                    
 O funcionamento do MoveSense assenta na integração de diferentes componentes tecnológicos que trabalham em conjunto.
 
   1. Recolha de dados através dos sensores
@@ -38,21 +38,21 @@ A aplicação recebe e apresenta os dados recolhidos, permitindo acompanhar a ev
 O profissional consegue consultar a amplitude dos movimentos, o número de repetições, a duração da atividade e a informação associada à experiência do paciente.
 
 
-                                                Especificações técnicas
+      Especificações técnicas
 
 O MoveSense integra diferentes componentes de hardware e software:
 
-  Raspberry Pi 4/5: unidade de processamento responsável pela gestão e automatização das operações.
-  Acelerómetro: permite recolher dados relativos à aceleração e ao movimento.
-  Giroscópio: permite medir a velocidade angular e acompanhar as rotações do segmento corporal.
-  Bluetooth: assegura a comunicação sem fios entre o dispositivo e o computador.
-  Cartão microSD: permite armazenar o sistema operativo, os programas e os dados necessários ao funcionamento.
-  Aplicação informática: recebe, organiza e apresenta os dados através de gráficos e indicadores de desempenho.
-  Sistema de sinalização visual: utiliza indicadores luminosos para fornecer feedback relativamente à amplitude do movimento.
-  A arquitetura tecnológica permite integrar recolha de dados, processamento, comunicação e apresentação de resultados num único sistema.
+-  Raspberry Pi 4/5: unidade de processamento responsável pela gestão e automatização das operações.
+-  Acelerómetro: permite recolher dados relativos à aceleração e ao movimento.
+-  Giroscópio: permite medir a velocidade angular e acompanhar as rotações do segmento corporal.
+-  Bluetooth: assegura a comunicação sem fios entre o dispositivo e o computador.
+-  Cartão microSD: permite armazenar o sistema operativo, os programas e os dados necessários ao funcionamento.
+-  Aplicação informática: recebe, organiza e apresenta os dados através de gráficos e indicadores de desempenho.
+-  Sistema de sinalização visual: utiliza indicadores luminosos para fornecer feedback relativamente à amplitude do movimento.
+-  A arquitetura tecnológica permite integrar recolha de dados, processamento, comunicação e apresentação de resultados num único sistema.
 
 
-                                                Funcionalidades principais
+      Funcionalidades principais
 
 O MoveSense foi concebido para disponibilizar quatro funcionalidades fundamentais:
 
@@ -77,42 +77,43 @@ Luz vermelha: amplitude articular inferior a 90°.
 Este mecanismo permite fornecer feedback visual imediato durante a realização dos exercícios.
 
 
-                                          Resultados e informação disponibilizada
+
+      Resultados e informação disponibilizada
 
 Um dos principais contributos do MoveSense é a transformação dos movimentos realizados pelo paciente em informação mensurável e organizada.
 No final de cada sessão, o sistema pretende disponibilizar indicadores que permitem avaliar o desempenho e acompanhar a evolução individual.
 Entre os principais resultados encontram-se:
-  Amplitude articular: identificação dos ângulos alcançados durante os exercícios.
-  Número de repetições: contabilização dos movimentos realizados.
-  Duração do exercício: registo do tempo de atividade.
-  Evolução do desempenho: comparação dos resultados entre diferentes sessões.
-  Registo de dor e dificuldade: possibilidade de associar a perceção do paciente à atividade realizada.
+-  Amplitude articular: identificação dos ângulos alcançados durante os exercícios.
+-  Número de repetições: contabilização dos movimentos realizados.
+-  Duração do exercício: registo do tempo de atividade.
+-  Evolução do desempenho: comparação dos resultados entre diferentes sessões.
+-  Registo de dor e dificuldade: possibilidade de associar a perceção do paciente à atividade realizada.
 A informação pode ser apresentada através de gráficos, permitindo ao profissional identificar progressos, dificuldades e eventuais limitações na execução dos movimentos.
 
-
-                                          Impacto e vantagens do MoveSense
+ 
+      Impacto e vantagens do MoveSense
 
 A implementação do MoveSense apresenta vantagens tanto para os profissionais de saúde como para os pacientes.
 
 Para os profissionais:
 
-  Maior objetividade na avaliação dos movimentos.
-  Acompanhamento contínuo da evolução do paciente.
-  Acesso a informação organizada e quantificável.
-  Apoio à personalização dos planos de reabilitação.
-  Redução da dependência exclusiva da observação visual.
+-  Maior objetividade na avaliação dos movimentos.
+-  Acompanhamento contínuo da evolução do paciente.
+-  Acesso a informação organizada e quantificável.
+-  Apoio à personalização dos planos de reabilitação.
+-  Redução da dependência exclusiva da observação visual.
 
 Para os pacientes:
 
-  Feedback durante a realização dos exercícios.
-  Maior consciência dos movimentos executados.
-  Acompanhamento da evolução individual.
-  Maior envolvimento no processo de reabilitação.
+-  Feedback durante a realização dos exercícios.
+-  Maior consciência dos movimentos executados.
+-  Acompanhamento da evolução individual.
+-  Maior envolvimento no processo de reabilitação.
 
 É importante destacar que estes resultados representam indicadores de acompanhamento e apoio à decisão clínica, não substituindo a avaliação realizada pelo fisioterapeuta.
 
 
-                                                    Conclusão
+      Conclusão
 
 O MoveSense representa a integração entre tecnologia, movimento e saúde.
 Ao combinar sensores inteligentes, processamento de dados e comunicação sem fios, procura transformar a forma como os exercícios de reabilitação são monitorizados e avaliados.
